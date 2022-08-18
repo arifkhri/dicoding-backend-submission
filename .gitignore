@@ -10,6 +10,7 @@
 
 # dependencies
 *.swp
+node_modules
 coverage
 
 # editor
